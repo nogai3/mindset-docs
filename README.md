@@ -1,0 +1,2 @@
+# mindset-docs
+Mindset documentation
